@@ -56,9 +56,9 @@ By ommiting the 9th grade data
 
 ## Thomas Highschool Scores 
 
--Perentage of students passing math was affected negatively (93.2)% to (66.9%)
--Percentage of students passing reading was affected negatively (97.3%) to (69.7%)
--Overall passing percentage was affected negatively (90.9%) to (65.1%)
+- Perentage of students passing math was affected negatively (93.2)% to (66.9%)
+- Percentage of students passing reading was affected negatively (97.3%) to (69.7%)
+- Overall passing percentage was affected negatively (90.9%) to (65.1%)
 
 ## School Ranking 
 
